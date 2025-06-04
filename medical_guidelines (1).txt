@@ -1,0 +1,110 @@
+**Radiation Therapy for Cancer: Comprehensive Guidelines**
+
+**1. Introduction**
+Radiation therapy (radiotherapy) is a crucial modality in the treatment of cancer, utilizing high-energy radiation to destroy cancer cells. These guidelines provide an evidence-based approach to radiation therapy from patient evaluation to post-treatment follow-up.
+
+---
+
+**2. Patient Evaluation and Selection**
+- **Diagnosis Confirmation**: Histopathological confirmation of cancer.
+- **Staging**: Clinical staging using imaging (CT, MRI, PET-CT) and biopsy.
+- **Indications for Radiation**:
+  - Primary treatment
+  - Adjuvant therapy post-surgery
+  - Palliative treatment for symptom relief
+  - Prophylactic treatment in high-risk patients
+- **Contraindications**:
+  - Pregnancy (relative contraindication, except in life-threatening cases)
+  - Certain connective tissue disorders (e.g., scleroderma)
+  - Previous excessive radiation exposure
+
+---
+
+**3. Radiation Treatment Planning**
+- **Multidisciplinary Team Approach**:
+  - Radiation oncologist, medical physicist, dosimetrist, radiation therapist, and oncology nurse.
+- **Simulation and Imaging**:
+  - CT simulation for treatment planning.
+  - MRI/PET for improved tumor localization if needed.
+- **Immobilization**:
+  - Use of masks, molds, or body frames for patient stability.
+- **Treatment Planning Systems (TPS)**:
+  - 3D conformal radiation therapy (3D-CRT)
+  - Intensity-modulated radiation therapy (IMRT)
+  - Image-guided radiation therapy (IGRT)
+  - Stereotactic body radiotherapy (SBRT) for small tumors
+  - Proton beam therapy in specific cases
+
+---
+
+**4. Radiation Delivery Techniques**
+- **External Beam Radiation Therapy (EBRT)**:
+  - Linear accelerators deliver photons or electrons.
+  - Fractionation schedules vary based on cancer type.
+- **Brachytherapy (Internal Radiation)**:
+  - Used for prostate, cervical, and breast cancer.
+  - High-dose-rate (HDR) vs. low-dose-rate (LDR) implants.
+- **Radiosurgery**:
+  - Stereotactic radiosurgery (SRS) for brain tumors.
+  - Stereotactic body radiation therapy (SBRT) for lung, liver, or spine tumors.
+
+---
+
+**5. Dose Prescription and Fractionation**
+- **Curative Intent**:
+  - Standard fractionation: 1.8-2 Gy per fraction, 5 days per week.
+  - Hypofractionation: Higher doses per fraction for specific cases.
+  - Hyperfractionation: Smaller doses given more than once daily.
+- **Palliative Intent**:
+  - Lower total doses with fewer fractions.
+  - Example: 30 Gy in 10 fractions for pain relief.
+
+---
+
+**6. Side Effects and Management**
+- **Acute Toxicities** (during or shortly after treatment):
+  - Skin reactions (erythema, desquamation) – Managed with topical agents.
+  - Fatigue – Encouraging rest and proper nutrition.
+  - Mucositis and esophagitis – Symptomatic relief with analgesics and dietary modifications.
+  - Diarrhea (pelvic radiation) – Antidiarrheals and dietary adjustments.
+- **Late Toxicities** (months to years post-treatment):
+  - Fibrosis, secondary malignancies, chronic pain.
+  - Endocrine dysfunction (thyroid, pituitary) – Managed by endocrinologists.
+  - Cognitive decline (brain radiation) – Cognitive therapy and medications.
+
+---
+
+**7. Follow-up and Surveillance**
+- **Regular Assessments**:
+  - First follow-up: 4-6 weeks post-treatment.
+  - Subsequent visits: Every 3-6 months for 2-3 years, then annually.
+- **Imaging and Biomarkers**:
+  - Periodic imaging to assess treatment response.
+  - Tumor markers (PSA for prostate cancer, CEA for colorectal cancer, etc.).
+- **Psychosocial Support**:
+  - Mental health counseling, rehabilitation services, and support groups.
+- **Survivorship Care**:
+  - Lifestyle modifications, screening for secondary cancers, and ongoing symptom management.
+
+---
+
+**8. Special Considerations**
+- **Pediatric Radiation Therapy**:
+  - Lower doses and specialized techniques to minimize long-term effects.
+- **Geriatric Patients**:
+  - Treatment tailored to comorbidities and functional status.
+- **Radiation in Pregnancy**:
+  - Highly individualized; shielding and alternative therapies considered.
+
+---
+
+**9. Conclusion**
+Radiation therapy remains a cornerstone of cancer treatment, with advancements improving efficacy and reducing toxicity. A patient-centered, multidisciplinary approach ensures the best outcomes while minimizing adverse effects.
+
+---
+
+**10. References and Further Reading**
+- National Comprehensive Cancer Network (NCCN) Guidelines
+- American Society for Radiation Oncology (ASTRO) Guidelines
+- European Society for Radiotherapy & Oncology (ESTRO) Recommendations
+
