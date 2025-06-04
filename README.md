@@ -44,4 +44,6 @@ In Pakistan, radiotherapy treatment planning is conducted manually by radiation 
 ```bash
 git clone https://github.com/Khansa05/onco-plan.git
 cd onco-plan
+pip install -r requirements.txt
+streamlit run app.py
 
