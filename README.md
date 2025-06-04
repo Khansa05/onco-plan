@@ -13,7 +13,7 @@ In Pakistan, radiotherapy treatment planning is conducted manually by radiation 
 ## 🌐 Live App
 
 👉 Try the app on Hugging Face Spaces:  
-[🔗 OncoPlan - AI Radiotherapy Planner]([https://huggingface.co/spaces/your-username/OncoPlan](https://khansaaqureshi-oncoplan.hf.space))
+[🔗 OncoPlan - AI Radiotherapy Planner]((https://khansaaqureshi-oncoplan.hf.space))
 
 ---
 
