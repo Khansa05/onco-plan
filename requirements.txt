@@ -1,0 +1,9 @@
+streamlit
+transformers
+matplotlib
+numpy
+torch
+torchvision
+torchaudio
+transformers
+pandas
